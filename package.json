@@ -1,0 +1,28 @@
+{
+  "name": "black-hole",
+  "version": "0.0.0",
+  "description": "\"   \"" ,
+  "keywords": [
+    "emptyness",
+    "nothing",
+    "void",
+    "zero",
+    "nada",
+    "gournicht",
+    "zip",
+    "zilch",
+    "nill"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js",
+    "lint": "eslint ./index.js ./lib"
+  },
+  "author": "taitulism@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "eslint": "3.9.1",
+    "mocha": "3.1.2"
+  }
+}
