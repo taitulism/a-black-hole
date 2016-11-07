@@ -1,4 +1,4 @@
-A Black Hole
+A Black Hole [![Build Status](https://travis-ci.org/taitulism/a-black-hole.svg?branch=master)](https://travis-ci.org/taitulism/a-black-hole)
 ============
 
 &nbsp;
