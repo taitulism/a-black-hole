@@ -2,6 +2,11 @@
   "name": "black-hole",
   "version": "0.0.0",
   "description": "\"   \"" ,
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js",
+    "lint": "eslint ./index.js ./lib"
+  },
   "keywords": [
     "emptyness",
     "nothing",
@@ -13,10 +18,9 @@
     "zilch",
     "nill"
   ],
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha test/**/*.spec.js",
-    "lint": "eslint ./index.js ./lib"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taitulism/black-hole"
   },
   "author": "taitulism@gmail.com",
   "license": "MIT",
