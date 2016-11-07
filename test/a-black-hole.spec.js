@@ -1,9 +1,10 @@
-const expect    = require('chai').expect;
-const blackHole = require('../lib/a-black-hole');
+const expect    = require('chai').expect,
+      blackHole = require('../lib/a-black-hole');
 
 describe('blackHole', () => {
     it('returns nothing', () => {
-        const returnValue = blackHole();
-        expect(returnValue).to.equal(void 0);
+        const nothing = blackHole();
+
+        expect(nothing);
     });
 });
