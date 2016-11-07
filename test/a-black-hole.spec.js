@@ -1,5 +1,5 @@
 const expect    = require('chai').expect;
-const blackHole = require('../black-hole');
+const blackHole = require('../lib/a-black-hole');
 
 describe('blackHole', () => {
     it('returns nothing', () => {

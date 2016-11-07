@@ -1,1 +1,1 @@
-module.exports = require('./lib/black-hole');
+module.exports = require('./lib/a-black-hole');
