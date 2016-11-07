@@ -185,7 +185,7 @@ module.exports = {
         "semi-spacing": "error",
         "sort-imports": "error",
         "sort-keys": "error",
-        "sort-vars": "error",
+        "sort-vars": "off",
         "space-before-blocks": "error",
         "space-before-function-paren": "error",
         "space-in-parens": [
